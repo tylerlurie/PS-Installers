@@ -27,10 +27,10 @@ $configFileContents =
   </AppSettings>
   <Display Level="None" AcceptEULA="TRUE" />
 </Configuration>'
-$configFileName = "Configuration-Office365.xml"
+$configFileName = "Configuration-Office365-Enterprise.xml"
 $configFilePath = Join-Path $env:TEMP $configFileName
 Out-File -FilePath $configFilePath -InputObject $configFileContents -Encoding utf8
-# Installs O365 with bare minimum configuration
+# Installs O365 Enterprise with bare minimum configuration
 $file = "setup.exe"
 $InstallerPath = Join-Path $env:TEMP $file
 Start-Process $InstallerPath -Wait -ArgumentList "/configure $configFilePath" -Verb RunAs
