@@ -7,3 +7,7 @@ For the most part, these scripts will download the MSI installers for applicatio
 Applications are typically installed for all users whenever possible, and on a per-user basis when system-wide installation is not supported.
 
 Installations are done silently with no setting configurations done in advance. This means most apps include a desktop shortcut by default.
+
+## Currently Included Apps
+* [Firefox](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Firefox.ps1)
+* [Google Chrome](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Google_Chrome.ps1)
