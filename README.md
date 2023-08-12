@@ -24,3 +24,4 @@ Installations are done silently with no setting configurations done in advance. 
 * [Opera](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Opera.ps1)
 * [Vivaldi](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Vivaldi.ps1)
 * [VLC Media Player](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_VLC_Media_Player.ps1)
+* [Zoom](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Zoom.ps1)
