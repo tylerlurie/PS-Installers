@@ -54,6 +54,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Foxit Reader](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Foxit_Reader.ps1)
 * [FreeOffice](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_FreeOffice.ps1)
 * [Google Chrome](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Google_Chrome.ps1)
+* [Java JDK](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Java_JDK.ps1)
 * [LibreOffice](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_LibreOffice.ps1)
 * [Microsoft Edge](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Microsoft_Edge.ps1)
 * [Notepad++](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1)
