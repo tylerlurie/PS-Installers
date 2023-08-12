@@ -10,6 +10,42 @@ Applications are typically installed for all users whenever possible, and on a p
 
 Installations are done silently with no setting configurations done in advance. This means most apps include a desktop shortcut by default.
 
+## Usage
+To install a given application from this repository, you can either download an individual script and run it, or run the following line in PowerShell:
+```
+Invoke-Expression ((New-Object System.Net.WebClient).DownloadString("https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/path/to/installer.ps1"))
+```
+
+It is preferable to use an Administrator instance PowerShell to avoid having to accept User Account Control promptings while installing applications, but it is not mandatory, as each installation command will prompt to elevate to administrative privileges if it needs them and does not already have them.
+
+To install multiple apps with a single script, you can use an array of links. For example:
+```
+$links = @(
+            "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Firefox.ps1",
+            "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_HomePrem.ps1",
+            "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Adobe_Acrobat.ps1",
+            "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_7-Zip.ps1",
+            "https://github.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1",
+            "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_VLC.ps1",
+            "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Zoom.ps1"
+)
+
+foreach ($link in $links)
+{
+    Invoke-Expression ((New-Object System.Net.WebClient).DownloadString($link))
+}
+```
+Or if batch scripting is more your thing, you can chain together calls to PowerShell scripts like so:
+```
+Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Firefox.ps1'))"
+Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_HomePrem.ps1'))"
+Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Adobe_Acrobat.ps1'))"
+Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_7-Zip.ps1'))"
+Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1'))"
+Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_VLC.ps1'))"
+Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Zoom.ps1'))"
+```
+
 ## Currently Included Apps
 * [7-Zip](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_7-Zip.ps1)
 * [Adobe Acrobat](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Adobe_Acrobat.ps1)
