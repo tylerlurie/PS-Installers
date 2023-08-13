@@ -54,6 +54,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Brave](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Brave.ps1)
 * [FileZilla](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_FileZilla.ps1)
 * [Firefox](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Firefox.ps1)
+* [foobar2000](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_foobar2000.ps1)
 * [Foxit Reader](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Foxit_Reader.ps1)
 * [FreeOffice](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_FreeOffice.ps1)
 * [GIMP](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_GIMP.ps1)
