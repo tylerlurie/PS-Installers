@@ -78,6 +78,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Python 3](https://github.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Python_3.ps1)
 * [qBittorrent](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/File%20Sharing/Install_qBittorrent.ps1)
 * [ShareX](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_ShareX.ps1)
+* [Spotify](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_Spotify.ps1)
 * [Sublime Text](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Sublime_Text.ps1)
 * [Sumatra PDF](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Sumatra_PDF.ps1)
 * [Visual Studio Code](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Visual_Studio_Code.ps1)
