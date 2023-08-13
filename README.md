@@ -73,6 +73,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Java JDK](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Java_JDK.ps1)
 * [K-Lite Codec Pack](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_K-Lite_Codec_Pack_Full.ps1)
 * [LibreOffice](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_LibreOffice.ps1)
+* [Malwarebytes](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_Malwarebytes.ps1)
 * [Microsoft Edge](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Microsoft_Edge.ps1)
 * [Microsoft OneDrive](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Online%20Storage/Install_OneDrive.ps1)
 * [Microsoft Teams for Home or Small Business](https://github.com/tylerlurie/PS-Installers/blob/main/Messaging/Install_Microsoft_Teams_Home_Small_Business.ps1)
