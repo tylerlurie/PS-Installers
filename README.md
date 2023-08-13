@@ -62,6 +62,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Greenshot](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_Greenshot.ps1)
 * [iTunes](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_iTunes.ps1)
 * [Java JDK](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Java_JDK.ps1)
+* [K-Lite Codec Pack](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_K-Lite_Codec_Pack_Full.ps1)
 * [LibreOffice](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_LibreOffice.ps1)
 * [Microsoft Edge](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Microsoft_Edge.ps1)
 * [Notepad++](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1)
