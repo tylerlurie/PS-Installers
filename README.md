@@ -86,6 +86,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Spotify](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_Spotify.ps1)
 * [Sublime Text](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Sublime_Text.ps1)
 * [Sumatra PDF](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Sumatra_PDF.ps1)
+* [TeamSpeak](https://github.com/tylerlurie/PS-Installers/blob/main/Messaging/Install_TeamSpeak.ps1)
 * [Thunderbird](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Thunderbird.ps1)
 * [Visual Studio Code](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Visual_Studio_Code.ps1)
 * [Visual Studio Community](https://github.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Visual_Studio_Community.ps1)
