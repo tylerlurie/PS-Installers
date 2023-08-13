@@ -62,6 +62,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [FreeOffice](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_FreeOffice.ps1)
 * [GIMP](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_GIMP.ps1)
 * [Google Chrome](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Google_Chrome.ps1)
+* [Google Drive for Desktop](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Online%20Storage/Install_Google_Drive_for_Desktop.ps1)
 * [Greenshot](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_Greenshot.ps1)
 * [iTunes](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_iTunes.ps1)
 * [Java JDK](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Java_JDK.ps1)
