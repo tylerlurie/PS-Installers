@@ -65,6 +65,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [OpenOffice](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_OpenOffice.ps1)
 * [Opera](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Opera.ps1)
 * [PeaZip](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_PeaZip.ps1)
+* [PuTTY](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_PuTTY.ps1)
 * [Python 2.7](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Python_2.7.ps1)
 * [Python 3](https://github.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Python_3.ps1)
 * [Sublime Text](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Sublime_Text.ps1)
