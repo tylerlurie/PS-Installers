@@ -53,6 +53,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Blender](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_Blender.ps1)
 * [Brave](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Brave.ps1)
 * [Discord](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Discord.ps1)
+* [Dropbox](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Online%20Storage/Install_Dropbox.ps1)
 * [eM Client](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_eM_Client.ps1)
 * [FileZilla](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_FileZilla.ps1)
 * [Firefox](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Firefox.ps1)
