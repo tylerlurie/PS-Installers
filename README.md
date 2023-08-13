@@ -68,6 +68,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [PuTTY](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_PuTTY.ps1)
 * [Python 2.7](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Python_2.7.ps1)
 * [Python 3](https://github.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Python_3.ps1)
+* [qBittorrent](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/File%20Sharing/Install_qBittorrent.ps1)
 * [Sublime Text](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Sublime_Text.ps1)
 * [Sumatra PDF](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Sumatra_PDF.ps1)
 * [Visual Studio Code](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Visual_Studio_Code.ps1)
