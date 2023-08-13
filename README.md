@@ -52,6 +52,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Audacity](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_Audacity.ps1)
 * [Blender](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_Blender.ps1)
 * [Brave](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Brave.ps1)
+* [Discord](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Discord.ps1)
 * [FileZilla](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_FileZilla.ps1)
 * [Firefox](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Firefox.ps1)
 * [foobar2000](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_foobar2000.ps1)
