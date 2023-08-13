@@ -51,6 +51,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [.NET 5 Desktop Runtime](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Runtimes/Install_.NET_5_Desktop_Runtime.ps1)
 * [.NET 6 Desktop Runtime](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Runtimes/Install_.NET_6_Desktop_Runtime.ps1)
 * [.NET 7 Desktop Runtime](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Runtimes/Install_.NET_7_Desktop_Runtime.ps1)
+* [.NET Framework 4.8](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Runtimes/Install_.NET_Framework_4.8.ps1)
 * [7-Zip](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_7-Zip.ps1)
 * [Adobe Acrobat](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Adobe_Acrobat.ps1)
 * [Audacity](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_Audacity.ps1)
