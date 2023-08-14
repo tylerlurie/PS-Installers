@@ -101,6 +101,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Sublime Text](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Sublime_Text.ps1)
 * [Sumatra PDF](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Sumatra_PDF.ps1)
 * [TeamSpeak](https://github.com/tylerlurie/PS-Installers/blob/main/Messaging/Install_TeamSpeak.ps1)
+* [TeamViewer](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Utilities/Install_TeamViewer.ps1)
 * [Telegram](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Telegram.ps1)
 * [Thunderbird](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Thunderbird.ps1)
 * [Visual C++ Redistributable (2015-2022)](https://github.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist-x64.ps1)
