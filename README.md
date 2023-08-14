@@ -54,6 +54,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [.NET Framework 4.8](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Runtimes/Install_.NET_Framework_4.8.ps1)
 * [7-Zip](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_7-Zip.ps1)
 * [Adobe Acrobat](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Adobe_Acrobat.ps1)
+* [AnyDesk](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Utilities/Install_AnyDesk.ps1)
 * [Audacity](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_Audacity.ps1)
 * [Avast](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_Avast.ps1)
 * [AVG](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_AVG.ps1)
