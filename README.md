@@ -74,6 +74,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [GIMP](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_GIMP.ps1)
 * [Google Chrome](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Google_Chrome.ps1)
 * [Google Drive for Desktop](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Online%20Storage/Install_Google_Drive_for_Desktop.ps1)
+* [Google Earth](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Geographic%20Information%20System/Install_Google_Earth.ps1)
 * [Greenshot](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_Greenshot.ps1)
 * [ImgBurn](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Utilities/Install_ImgBurn.ps1)
 * [iTunes](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_iTunes.ps1)
