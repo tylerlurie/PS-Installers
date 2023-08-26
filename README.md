@@ -85,6 +85,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Microsoft Teams for Home or Small Business](https://github.com/tylerlurie/PS-Installers/blob/main/Messaging/Install_Microsoft_Teams_Home_Small_Business.ps1)
 * [Microsoft Teams for Work or School](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Microsoft_Teams_Work_School.ps1)
 * [Notepad++](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1)
+* [OBS Studio](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Screen%20Recorders/Install_OBS_Studio.ps1)
 * [Office 365 Apps for Business](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_Business.ps1)
 * [Office 365 Apps for Enterprise](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_Enterprise.ps1)
 * [Office 365 Personal](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_HomePrem.ps1)
