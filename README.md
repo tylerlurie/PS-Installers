@@ -105,6 +105,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Skype](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Skype.ps1)
 * [Spotify](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_Spotify.ps1)
 * [Spybot](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_Spybot.ps1)
+* [Steam](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Game%20Launchers/Install_Steam.ps1)
 * [Sublime Text](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Sublime_Text.ps1)
 * [Sumatra PDF](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Sumatra_PDF.ps1)
 * [TeamSpeak](https://github.com/tylerlurie/PS-Installers/blob/main/Messaging/Install_TeamSpeak.ps1)
