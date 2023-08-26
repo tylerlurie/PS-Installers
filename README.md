@@ -59,6 +59,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Avast](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_Avast.ps1)
 * [AVG](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_AVG.ps1)
 * [Avira](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_Avira.ps1)
+* [Bandicam](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Screen%20Recorders/Install_Bandicam.ps1)
 * [Blender](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_Blender.ps1)
 * [Brave](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Brave.ps1)
 * [Discord](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Discord.ps1)
