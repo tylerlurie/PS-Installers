@@ -122,6 +122,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Visual Studio Community](https://github.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Visual_Studio_Community.ps1)
 * [Vivaldi](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Vivaldi.ps1)
 * [VLC Media Player](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_VLC_Media_Player.ps1)
+* [VMware Player](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Virtualization%20Software/Install_VMware_Player.ps1)
 * [WinDirStat](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Utilities/Install_WinDirStat.ps1)
 * [WinRAR](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_WinRAR.ps1)
 * [WinSCP](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_WinSCP.ps1)
