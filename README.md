@@ -114,6 +114,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [TeamViewer](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Utilities/Install_TeamViewer.ps1)
 * [Telegram](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Telegram.ps1)
 * [Thunderbird](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Thunderbird.ps1)
+* [Ubisoft Connect](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Game%20Launchers/Install_Ubisoft_Connect.ps1)
 * [Visual C++ Redistributable (2015-2022)](https://github.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist-x64.ps1)
 * [Visual Studio Code](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Visual_Studio_Code.ps1)
 * [Visual Studio Community](https://github.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Visual_Studio_Community.ps1)
