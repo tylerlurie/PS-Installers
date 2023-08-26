@@ -65,6 +65,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Discord](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Discord.ps1)
 * [Dropbox](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Online%20Storage/Install_Dropbox.ps1)
 * [eM Client](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_eM_Client.ps1)
+* [Epic Games Launcher](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Game%20Launchers/Install_Epic_Games_Launcher.ps1)
 * [Everything](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/File%20System%20Tools/Install_Everything.ps1)
 * [FileZilla](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_FileZilla.ps1)
 * [Firefox](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Firefox.ps1)
