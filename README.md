@@ -93,6 +93,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Office 365 Personal](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_HomePrem.ps1)
 * [OpenOffice](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_OpenOffice.ps1)
 * [Opera](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Opera.ps1)
+* [Origin](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Game%20Launchers/Install_Origin.ps1)
 * [Paint.NET](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_Paint.NET.ps1)
 * [PeaZip](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_PeaZip.ps1)
 * [PuTTY](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_PuTTY.ps1)
