@@ -94,6 +94,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Office 365 Apps for Enterprise](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_Enterprise.ps1)
 * [Office 365 Personal](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_HomePrem.ps1)
 * [OpenOffice](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_OpenOffice.ps1)
+* [OpenVPN](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Utilities/Install_OpenVPN.ps1)
 * [Opera](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Opera.ps1)
 * [Oracle VM VirtualBox](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Virtualization%20Software/Install_Oracle_VM_VirtualBox.ps1)
 * [Origin](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Game%20Launchers/Install_Origin.ps1)
