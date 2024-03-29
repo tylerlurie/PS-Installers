@@ -25,7 +25,7 @@ $links = @(
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_Enterprise.ps1",
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Adobe_Acrobat.ps1",
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_7-Zip.ps1",
-            "https://github.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1",
+            "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1",
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_VLC_Media_Player.ps1",
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Zoom.ps1"
 )
@@ -64,7 +64,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Bandicam](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Screen%20Recorders/Install_Bandicam.ps1)
 * [Blender](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_Blender.ps1)
 * [Brave](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Brave.ps1)
-* [DirectX End-User Runtime](https://github.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_DirectX_Runtime.ps1)
+* [DirectX End-User Runtime](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_DirectX_Runtime.ps1)
 * [Discord](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Discord.ps1)
 * [Dropbox](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Online%20Storage/Install_Dropbox.ps1)
 * [eM Client](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_eM_Client.ps1)
@@ -88,7 +88,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Malwarebytes](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_Malwarebytes.ps1)
 * [Microsoft Edge](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Microsoft_Edge.ps1)
 * [Microsoft OneDrive](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Online%20Storage/Install_OneDrive.ps1)
-* [Microsoft Teams for Home or Small Business](https://github.com/tylerlurie/PS-Installers/blob/main/Messaging/Install_Microsoft_Teams_Home_Small_Business.ps1)
+* [Microsoft Teams for Home or Small Business](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Messaging/Install_Microsoft_Teams_Home_Small_Business.ps1)
 * [Microsoft Teams for Work or School](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Microsoft_Teams_Work_School.ps1)
 * [Notepad++](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1)
 * [NV Access (NVDA)](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Accessibility/Install_NV_Access.ps1)
@@ -105,7 +105,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [PeaZip](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_PeaZip.ps1)
 * [PuTTY](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_PuTTY.ps1)
 * [Python 2.7](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Python_2.7.ps1)
-* [Python 3](https://github.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Python_3.ps1)
+* [Python 3](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Python_3.ps1)
 * [qBittorrent](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/File%20Sharing/Install_qBittorrent.ps1)
 * [Revo Uninstaller](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Utilities/Install_Revo_Uninstaller.ps1)
 * [ShareX](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_ShareX.ps1)
@@ -116,19 +116,19 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Steam](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Game%20Launchers/Install_Steam.ps1)
 * [Sublime Text](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Sublime_Text.ps1)
 * [Sumatra PDF](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Sumatra_PDF.ps1)
-* [TeamSpeak](https://github.com/tylerlurie/PS-Installers/blob/main/Messaging/Install_TeamSpeak.ps1)
+* [TeamSpeak](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Messaging/Install_TeamSpeak.ps1)
 * [TeamViewer](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Utilities/Install_TeamViewer.ps1)
 * [Telegram](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Telegram.ps1)
 * [Thunderbird](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Thunderbird.ps1)
 * [Ubisoft Connect](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Game%20Launchers/Install_Ubisoft_Connect.ps1)
-* [Visual C++ Redistributable (2005)](https://github.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2005-x64.ps1)
-* [Visual C++ Redistributable (2008)](https://github.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2008-x64.ps1)
-* [Visual C++ Redistributable (2010)](https://github.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2010-x64.ps1)
-* [Visual C++ Redistributable (2012)](https://github.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2012-x64.ps1)
-* [Visual C++ Redistributable (2013)](https://github.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2013-x64.ps1)
-* [Visual C++ Redistributable (2015-2022)](https://github.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2015-2022-x64.ps1)
+* [Visual C++ Redistributable (2005)](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2005-x64.ps1)
+* [Visual C++ Redistributable (2008)](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2008-x64.ps1)
+* [Visual C++ Redistributable (2010)](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2010-x64.ps1)
+* [Visual C++ Redistributable (2012)](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2012-x64.ps1)
+* [Visual C++ Redistributable (2013)](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2013-x64.ps1)
+* [Visual C++ Redistributable (2015-2022)](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Runtimes/Install_VCRedist_2015-2022-x64.ps1)
 * [Visual Studio Code](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Visual_Studio_Code.ps1)
-* [Visual Studio Community](https://github.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Visual_Studio_Community.ps1)
+* [Visual Studio Community](https://raw.githubusercontent.com/tylerlurie/PS-Installers/blob/main/Developer%20Tools/Install_Visual_Studio_Community.ps1)
 * [Vivaldi](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Vivaldi.ps1)
 * [VLC Media Player](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_VLC_Media_Player.ps1)
 * [VMware Player](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Virtualization%20Software/Install_VMware_Player.ps1)
