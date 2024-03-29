@@ -8,5 +8,5 @@ $dlLink = $response.GetResponseHeader("Location")
 $file = [System.IO.Path]::GetFileName($dlLink)
 $InstallerPath = Join-Path $env:TEMP $file
 (New-Object System.Net.WebClient).DownloadFile($dlLink, $InstallerPath)
-Start-Process $InstallerPath -Wait -ArgumentList "/q /norestart" -Verb RunAs
+Start-Process $InstallerPath -Wait -ArgumentList "/passive /AcceptEULA /norestart" -Verb RunAs
 Remove-Item $InstallerPath
