@@ -1,6 +1,6 @@
 $ProgressPreference = 'SilentlyContinue'
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-$dlLink = Invoke-WebRequest -uri "https://www.microsoft.com/download/confirmation.aspx?id=49117" -UseBasicParsing | Select-Object -ExpandProperty Links | Where-Object {$_.href -like "*officedeploymenttool*"} | Select-Object -ExpandProperty href | Select-Object -First 1
+$dlLink = Invoke-WebRequest -UseBasicParsing -Uri "https://www.microsoft.com/en-us/download/details.aspx?id=49117" | Select-Object -ExpandProperty Links | Where-Object {$_.href -like "*officedeploymenttool*" } | Select-Object -ExpandProperty href | Select-Object -First 1
 $file = $dlLink -Split "/" | Select-Object -Last 1
 $InstallerPath = Join-Path $env:TEMP $file
 (New-Object System.Net.WebClient).DownloadFile($dlLink, $InstallerPath)
