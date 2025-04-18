@@ -23,6 +23,7 @@ To install multiple apps with a single script, you can use an array of links. Fo
 $links = @(
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Google_Chrome.ps1",
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_Enterprise.ps1",
+            "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Microsoft_Teams.ps1",
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Adobe_Acrobat.ps1",
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_7-Zip.ps1",
             "https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1",
@@ -39,6 +40,7 @@ Or if batch scripting is more your thing, you can chain together calls to PowerS
 ```
 Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Google_Chrome.ps1'))"
 Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Office365_Enterprise.ps1'))"
+Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Microsoft_Teams.ps1'))"
 Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Documents/Install_Adobe_Acrobat_Reader.ps1'))"
 Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Compression/Install_7-Zip.ps1'))"
 Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1'))"
@@ -88,8 +90,7 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Malwarebytes](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_Malwarebytes.ps1)
 * [Microsoft Edge](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Web%20Browsers/Install_Microsoft_Edge.ps1)
 * [Microsoft OneDrive](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Online%20Storage/Install_OneDrive.ps1)
-* [Microsoft Teams for Home or Small Business](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Microsoft_Teams_Home_Small_Business.ps1)
-* [Microsoft Teams for Work or School](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Microsoft_Teams_Work_School.ps1)
+* [Microsoft Teams](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Microsoft_Teams.ps1)
 * [Notepad++](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Developer%20Tools/Install_Notepad-Plus-Plus.ps1)
 * [NV Access (NVDA)](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Accessibility/Install_NV_Access.ps1)
 * [OBS Studio](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Screen%20Recorders/Install_OBS_Studio.ps1)
