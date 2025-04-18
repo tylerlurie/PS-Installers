@@ -111,7 +111,6 @@ Powershell.exe -ExecutionPolicy Bypass -Command "Invoke-Expression ((New-Object 
 * [Revo Uninstaller](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Utilities/Install_Revo_Uninstaller.ps1)
 * [ShareX](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Imaging/Install_ShareX.ps1)
 * [Signal](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Signal.ps1)
-* [Skype](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Messaging/Install_Skype.ps1)
 * [Spotify](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Media/Install_Spotify.ps1)
 * [Spybot](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Security/Install_Spybot.ps1)
 * [Steam](https://raw.githubusercontent.com/tylerlurie/PS-Installers/main/Other/Game%20Launchers/Install_Steam.ps1)
