@@ -1,7 +1,7 @@
 $ProgressPreference = 'SilentlyContinue'
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $file = "SpotifyFullSetup.exe"
-$dlLink = "https://download.spotify.com/$file"
+$dlLink = "https://download.scdn.co/$file"
 $InstallerPath = Join-Path $env:TEMP $file
 (New-Object System.Net.WebClient).DownloadFile($dlLink, $InstallerPath)
 Start-Process $InstallerPath -ArgumentList "/silent"
